@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML5,CSS,JS,REACT.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🎓 I am Doing my B.TECH in Computer Science at Kmea Engneering College 🧑🏽‍💻
 
 <!---
 RIZWAN-17/RIZWAN-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
