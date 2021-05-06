@@ -1,7 +1,6 @@
 - 👋 Hi, I’m RIZWAN K RAHIM
-- 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML5,CSS,JS,REACT.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate  with other passionate developers.
 - 🎓 I am Doing my B.TECH in Computer Science at Kmea Engneering College 🧑🏽‍💻
 
 <!---
